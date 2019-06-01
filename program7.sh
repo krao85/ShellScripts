@@ -1,2 +1,2 @@
-c=$(expr "$1" + "$2")
+c=$(expr "$a" + "$b")
 echo "THe A+B Value is"" "$c
